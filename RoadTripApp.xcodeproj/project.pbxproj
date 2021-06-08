@@ -15,6 +15,7 @@
 		9EB3FBC32670214600FDC41D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EB3FBC12670214600FDC41D /* LaunchScreen.storyboard */; };
 		9EB3FBCE2670214700FDC41D /* RoadTripAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EB3FBCD2670214700FDC41D /* RoadTripAppTests.swift */; };
 		9EB3FBD92670214700FDC41D /* RoadTripAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EB3FBD82670214700FDC41D /* RoadTripAppUITests.swift */; };
+		9EB3FBE72670217200FDC41D /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EB3FBE62670217200FDC41D /* Capital.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9EB3FBD42670214700FDC41D /* RoadTripAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RoadTripAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EB3FBD82670214700FDC41D /* RoadTripAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoadTripAppUITests.swift; sourceTree = "<group>"; };
 		9EB3FBDA2670214700FDC41D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EB3FBE62670217200FDC41D /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				9EB3FBB62670214300FDC41D /* AppDelegate.swift */,
 				9EB3FBB82670214300FDC41D /* SceneDelegate.swift */,
 				9EB3FBBA2670214300FDC41D /* ViewController.swift */,
+				9EB3FBE62670217200FDC41D /* Capital.swift */,
 				9EB3FBBC2670214300FDC41D /* Main.storyboard */,
 				9EB3FBBF2670214600FDC41D /* Assets.xcassets */,
 				9EB3FBC12670214600FDC41D /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				9EB3FBBB2670214300FDC41D /* ViewController.swift in Sources */,
 				9EB3FBB72670214300FDC41D /* AppDelegate.swift in Sources */,
+				9EB3FBE72670217200FDC41D /* Capital.swift in Sources */,
 				9EB3FBB92670214300FDC41D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
